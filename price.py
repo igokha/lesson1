@@ -3,4 +3,4 @@ def format_price(price):
     s = 'price: ' + str(p) + ' rub.'
     return s.capitalize()
 
-print(format_price(586.43))
+print(format_price(100.43))
